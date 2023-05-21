@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665089628 source:d:\program\c\feladat01\feladat01\feladat1.c
+	<stdio.h>
+	<stdlib.h>
+
+1665158192 source:d:\program\c\feladat01\feladat01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

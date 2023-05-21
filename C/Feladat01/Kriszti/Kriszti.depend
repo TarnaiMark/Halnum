@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665415614 source:d:\program\c\feladat01\kriszti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
